@@ -4,7 +4,6 @@ An interactive Excel dashboard that shows which items, outlets and locations dri
 
 <img width="2200" height="1700" alt="blinkit-sales-analysis-excel-dashboard" src="https://github.com/user-attachments/assets/74d7b88c-dea8-4065-9b7c-19840db25eb1" />
 
-
 ## Project Overview
 - **Dataset:** 8,523 item records, 13 columns (item type, fat content, outlet size/type/location, establishment year, visibility, weight, sales, rating)
 - **Tools:** Microsoft Excel (Excel Table, 10 pivot tables, slicers, GETPIVOTDATA KPIs, 8 charts)
@@ -38,9 +37,14 @@ An interactive Excel dashboard that shows which items, outlets and locations dri
 
 ## How to Use the Dashboard
 GitHub only shows a static preview of Excel files, so the slicers and charts won't work in the browser. To use the interactive dashboard:
-1. Download `BlinkIT_Grocery_Data_Excel.xlsx` from this repo.
+1. Download [BlinkIT Grocery Data Excel.xlsx](BlinkIT%20Grocery%20Data%20Excel.xlsx).
 2. Open it in Microsoft Excel and go to the **Dashboard** sheet.
 3. Use the slicers on the left to filter by outlet size, outlet location and item type.
+
+## Files
+- [BlinkIT Grocery Data Excel.xlsx](BlinkIT%20Grocery%20Data%20Excel.xlsx): workbook with 3 sheets (data, pivot tables and KPIs, dashboard)
+- [blinkit-sales-analysis-presentation.pdf](blinkit-sales-analysis-presentation.pdf): project presentation
+- `blinkit-sales-analysis-excel-dashboard.png`: dashboard screenshot
 
 ## Author
 **Shivam Raut** | [GitHub](https://github.com/shivamraut747-ux) | [LinkedIn](https://www.linkedin.com/in/shivam-raut-9a9986376/)
